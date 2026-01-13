@@ -93,7 +93,7 @@ et-xmlfile==2.0.0
     # via openpyxl
 fastapi==0.116.1
     # via -r requirements.in
-filelock==3.18.0
+filelock==3.20.3
     # via
     #   huggingface-hub
     #   torch
