@@ -49,7 +49,7 @@ certifi==2025.7.14
     #   httpx
     #   llama-cloud
     #   requests
-cffi==1.17.1
+cffi==2.0.0
     # via cryptography
 charset-normalizer==3.4.2
     # via requests
@@ -67,7 +67,7 @@ confection==0.1.5
     # via
     #   thinc
     #   weasel
-cryptography==45.0.5
+cryptography==46.0.5
     # via python-jose
 cymem==2.0.11
     # via
