@@ -353,7 +353,7 @@ pandas==2.3.1
     #   llama-index-readers-file
 passlib[bcrypt]==1.7.4
     # via -r requirements.in
-pillow==11.3.0
+pillow==12.1.1
     # via
     #   -r requirements.in
     #   easyocr
